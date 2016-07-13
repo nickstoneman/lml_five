@@ -31,7 +31,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'twilio-ruby'
 gem 'simple_form'
+# Bootstrap Helpers
 gem 'bh'
+# gem 'bootstrap', '~> 4.0.0.alpha3'
+gem 'bootstrap-growl-rails'
+
+
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
